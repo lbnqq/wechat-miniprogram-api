@@ -1,0 +1,22 @@
+{
+  "name": "wechat-miniprogram-api",
+  "version": "1.0.0",
+  "description": "WeChat Mini Program Backend API",
+  "type": "module",
+  "engines": {
+    "node": "22.x"
+  },
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node --watch server.js"
+  },
+  "keywords": [
+    "wechat",
+    "miniprogram",
+    "api",
+    "vercel"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {}
+}
