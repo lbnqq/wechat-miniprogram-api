@@ -2,8 +2,7 @@
   "name": "wechat-miniprogram-api",
   "version": "1.0.0",
   "description": "WeChat Mini Program Backend API",
-  "type": "module",
-  "engines": {
+    "engines": {
     "node": "22.x"
   },
   "scripts": {
